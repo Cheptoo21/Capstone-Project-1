@@ -175,8 +175,7 @@ I deployed this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Issues Pages](https://github.com/Cheptoo21/Capstone-Project-1
-/issues)
+Feel free to check the [Issues Pages](https://github.com/Cheptoo21/Capstone-Project-1/issues)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
