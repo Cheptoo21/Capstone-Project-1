@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo
 
-- You can see the live demo of the portfolio [Here](https://cheptoo21.github.io/Portfolio-setup-and-mobile-first)😊⤵️
+- You can see the live demo of the portfolio [Here](https://cheptoo21.github.io/Capstone-Project-1/home.html)😊⤵️
 - You can see the video of the presentation [Here](https://www.loom.com/share/6778bb642dbf4db99ca3db8699ebd69a?sid=ea239308-0624-4acf-a39e-c637fdb4727e)😊⤵️
 <!-- GETTING STARTED -->
 
