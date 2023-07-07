@@ -91,7 +91,7 @@
 }
 
 .beauty-summit {
-  background-image: url('Logo/');
+  background-image: url('Logo/mobile-background.png');
   background-repeat: no-repeat;
   background-position: center;
   height: auto;
@@ -253,7 +253,7 @@
   gap: 5px;
   margin-top: 20px;
   margin-bottom: 20px;
-}*/
+} */
 
 .text-holder hr {
   width: 10%;
@@ -371,7 +371,7 @@
   }
 
   .beauty-summit {
-    background-image: url("Logo/bg-desktop.jpg");
+    background-image: url("Logo/desktop-background.png");
     height: 100%;
     width: auto;
     background-size: cover;

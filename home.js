@@ -4,17 +4,17 @@ const mobMenu = document.querySelector('.mob-menu');
 
 ham.addEventListener('click', () => {
   mobMenu.style.display = 'flex';
-  body.style.filter = 'blur(100px)';
+  // /*body.style.filter = 'blur(100px)';*/
 });
 
 closeBtn.addEventListener('click', () => {
   mobMenu.style.display = 'none';
-  body.style.filter = 'blur(0)';
+  // /*body.style.filter = 'blur(0)';*/
 });
 
 mobMenu.addEventListener('click', () => {
   mobMenu.style.display = 'none';
-  body.style.filter = 'blur(0)';
+  // /*body.style.filter = 'blur(0)';*/
 });
 
 const speakers = [
