@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio <a name="CAPSTONE PROJECT"></a>
+# 📖 CAPSTONE PROJECT <a name="CAPSTONE PROJECT"></a>
 
 - This Project is about a Beauty Summit. It showcases my skills in HTML,CSS,JavaScript.With a passion for web development, I have honed my expertise in these technologies to create stunning and functional websites.
 
