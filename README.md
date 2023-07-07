@@ -62,7 +62,7 @@
 ## 🚀 Live Demo
 
 - You can see the live demo of the portfolio [Here](https://cheptoo21.github.io/Portfolio-setup-and-mobile-first)😊⤵️
-- You can see the video of the presentation [Here](https://www.loom.com/share/6190ca684cad4198977216a52f4ab34c?sid=3faa2f18-b123-436c-a9b3-b367e5719b72)😊⤵️
+- You can see the video of the presentation [Here](https://www.loom.com/share/6778bb642dbf4db99ca3db8699ebd69a?sid=ea239308-0624-4acf-a39e-c637fdb4727e)😊⤵️
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -93,8 +93,9 @@ Example commands:
 
 ```sh
   
-  git clone git@github.com:Cheptoo21/Portfolio-setup-and-mobile-first.git
-  cd Portfolio-setup-and-mobile-first
+  git clone git@github.com:Cheptoo21/Capstone-Project-1.git
+  cd Capstone-Project-1
+
 
 
 ```
@@ -174,7 +175,8 @@ I deployed this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Issues Pages](https://github.com/Cheptoo21/Portfolio-setup-and-mobile-first/issues)
+Feel free to check the [Issues Pages](https://github.com/Cheptoo21/Capstone-Project-1
+/issues)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
