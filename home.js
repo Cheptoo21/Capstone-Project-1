@@ -69,7 +69,6 @@ const speakerContainer = document.querySelector('.speaker-holder');
 const showSpeakers = speakers.map((speaker) => `
       <div class="speakers">
         <div class="img-holder">
-          <img class="bg" src="./Logo/facebook.png">
           <img src=${speaker.img} alt=${speaker.imgAlt}>
         </div>
         <div class="text-holder">

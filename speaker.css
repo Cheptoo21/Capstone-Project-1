@@ -1,8 +1,11 @@
 .featured-guests {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   padding: 50px 25px;
   text-align: center;
+  margin: 20px 50px;
+  background-color: lightgrey;
 }
 
 .featured-guests h2 {
