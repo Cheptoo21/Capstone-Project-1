@@ -4,17 +4,14 @@ const mobMenu = document.querySelector('.mob-menu');
 
 ham.addEventListener('click', () => {
   mobMenu.style.display = 'flex';
-  // /*body.style.filter = 'blur(100px)';*/
 });
 
 closeBtn.addEventListener('click', () => {
   mobMenu.style.display = 'none';
-  // /*body.style.filter = 'blur(0)';*/
 });
 
 mobMenu.addEventListener('click', () => {
   mobMenu.style.display = 'none';
-  // /*body.style.filter = 'blur(0)';*/
 });
 
 const speakers = [
@@ -22,7 +19,7 @@ const speakers = [
     id: '1',
     name: 'Ms Phoina Beauty',
     title: 'CEO Phoina Hair Collection',
-    desc: 'Aisha is a beauty enthusiast and make-up artist with passion to educate young women into beauty.',
+    desc: 'Phoina is a beauty enthusiast and make-up artist with passion to educate young women into beauty.',
     img: './Logo/phoina.jpg',
     imgAlt: 'Phoina Beauty',
   },
@@ -72,7 +69,7 @@ const speakerContainer = document.querySelector('.speaker-holder');
 const showSpeakers = speakers.map((speaker) => `
       <div class="speakers">
         <div class="img-holder">
-          <img class="bg" src="">
+          <img class="bg" src="./Logo/facebook.png">
           <img src=${speaker.img} alt=${speaker.imgAlt}>
         </div>
         <div class="text-holder">
